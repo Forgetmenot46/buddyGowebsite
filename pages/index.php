@@ -10,6 +10,7 @@ include '../includes/db_config.php';
     <title>Document</title>
 </head>
 <body>
+
     <p>สวัสดีประเทศไทย</p>
     
 </body>
