@@ -10,6 +10,10 @@ include '../includes/db_config.php';
     <title>Document</title>
 </head>
 <body>
+<<<<<<< HEAD
+    <p>ddddddddddddddddddddddddddddddd1123 </p>
+=======
     <p>เอาใหม้อิอิ</p>
+>>>>>>> 6ce456e96f2a4169671e73c2ccf552bcfb9cb868
 </body>
 </html>
