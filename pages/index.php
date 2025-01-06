@@ -10,6 +10,6 @@ include '../includes/db_config.php';
     <title>Document</title>
 </head>
 <body>
-    <p>Testingจ้า</p>
+    <p>Testingจ้ฟหกฟหา</p>
 </body>
 </html>
