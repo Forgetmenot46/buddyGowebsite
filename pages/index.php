@@ -11,7 +11,7 @@ include '../includes/db_config.php';
 </head>
 <body>
 
-    <p>สวัสดีประเทศไทย</p>
+    <p>สวัสดีประเทศอเมริกา</p>
     
 </body>
 </html>
